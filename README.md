@@ -42,7 +42,7 @@ Uneeq-Internship-Tasks/
   - Risk categorization based on severity.
   - Mitigation strategies for identified vulnerabilities.
  
-[View Vulnerability Assessment](https://github.com/ramezzateff/uneeq/tree/main/tasks/vulnerability-assessment)
+🔗 [View Vulnerability Assessment](https://github.com/ramezzateff/uneeq/tree/main/tasks/vulnerability-assessment)
 
 ---
 
@@ -53,8 +53,8 @@ Uneeq-Internship-Tasks/
   - Network packet captures.
   - Analysis report highlighting suspicious activities.
   - Recommendations to mitigate identified risks.
- 
-[View Network Traffic Analysis](https://github.com/ramezzateff/uneeq/tree/main/tasks/network-traffic-analysis)
+
+🔗 [View Network Traffic Analysis](https://github.com/ramezzateff/uneeq/tree/main/tasks/network-traffic-analysis)
 
 ---
 
